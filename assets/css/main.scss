@@ -7,3 +7,11 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* 전체 본문 크기 축소 */
+body {
+    font-size: 18px;      /* 기본값은 보통 18px 이상입니다 */
+    line-height: 1.5;    /* 줄 간격도 살짝 줄이면 더 집약적으로 보입니다 */
+ }
+
+
