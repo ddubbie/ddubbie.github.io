@@ -8,5 +8,8 @@ permalink: /
 {% capture self_pr_content %}{% include pages/01_self-pr.md %}{% endcapture %}
 {{ self_pr_content | markdownify }}
 
-{% capture self_pr_content %}{% include pages/02_pub_patents.md %}{% endcapture %}
-{{ self_pr_content | markdownify }}
+{% capture publications_content %}{% include pages/02_publications.md %}{% endcapture %}
+{{ publications_content | markdownify }}
+
+{% capture patents_content %}{% include pages/03_patents.md %}{% endcapture %}
+{{ patents_content | markdownify }}
