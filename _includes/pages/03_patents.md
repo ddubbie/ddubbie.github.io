@@ -1,6 +1,3 @@
 ## Patents
 
-**[KR Patent]** Method and Apparatus for Improving Key Value Store Performance through Offloading of Smart Network Interface Card
-* **Inventors**: Youngbin Im, Dong U Kim
-* **Registration No.**: 10-2724612-0000
-* **Date**: Oct 28, 2024 (Registered)
+1. Youngbin Im and Dong U Kim, "[Method and Apparatus for Improving Key Value Store Performance through Offloading of Smart Network Interface Card](https://doi.org/10.8080/1020220175108)," *KR Patent Registered No. 10-2724-6120000*, Oct. 2024.
