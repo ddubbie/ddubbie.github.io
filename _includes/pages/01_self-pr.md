@@ -5,3 +5,5 @@ Currently, I heavily focus on developing a **flexible, high-performance distribu
 Prior to joining MangoBoost, I received my M.S. from the Department of Computer Science and Engineering at Ulsan National Institue of Sciene and Technology (UNIST), Korea, where I was advised by [**Prof. Youngbin Im**](https://n2sl-unist.github.io/n2sl/members/youngbin-Im.html). My research focused on *high-performance TCP stacks accelerated by DPUs*. Before that, I received my B.S. degree in Electrical Engineering from Inha University, Korea.
 
 Outside of engineering, I am a keyboardist in a band. On my days off, you’ll usually find me immersed in practice, preparing for our upcoming gigs.
+
+You can find more details in my [CV.](https://ddubbie.github.io/assets/pdf/dongu-kim-cv.pdf)

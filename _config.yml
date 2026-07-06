@@ -127,9 +127,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin" # LinkedIn 전용 아이콘 코드
       url: "https://www.linkedin.com/in/dongu-kim-083921202/"
-    - label: "CV"
-      icon: "fas fa-fw fa-user"
-      url: "/assets/pdf/dongu-kim-cv.pdf"
+        #- label: "CV"
+        #icon: "fas fa-fw fa-user"
+        #url: "/assets/pdf/dongu-kim-cv.pdf"
     #- label: "Email"
      # icon: "fas fa-fw fa-envelope"
       #url: "dongu6213@gmail.com"
